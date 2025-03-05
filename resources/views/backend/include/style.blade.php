@@ -16,3 +16,6 @@
 <!-- INTERNAL Switcher css -->
 <link href="{{asset('/')}}backend/assets/switcher/css/switcher.css" rel="stylesheet">
 <link href="{{asset('/')}}backend/assets/switcher/demo.css" rel="stylesheet">
+
+<!-- Toastr css -->
+<link rel="stylesheet" href="{{asset('/')}}backend/assets/css/toastr.min.css"/>
